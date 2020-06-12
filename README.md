@@ -1,5 +1,5 @@
 # WatchMe
-Basically, a cross-platfrom utility using eye tracking and pose estimation to play/pause videos based on if the user is looking at/awayfrom the screen.
+A cross-platfrom utility using eye tracking and pose estimation to play/pause videos based on if the user is looking at/awayfrom the screen.
 
 # Dependencies:
 
