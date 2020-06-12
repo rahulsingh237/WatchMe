@@ -1,3 +1,14 @@
 # WatchMe
-Eye tracking and pose estimation, applied to Netflix (currently). </br>
-Automatically pauses the video when looked away from, resumes, when looked at again.
+Basically, a cross-platfrom utility using eye tracking and pose estimation to play/pause videos based on if the user is looking at/awayfrom the screen.
+
+# Dependencies:
+
+1.`OpenCV` v3
+
+2.`psutils` for process management
+
+3.`pyautogui` for GUI automation
+
+Currently supports Netflix only. </br>
+
+WatchMe must be running in the background, while streaming on Netflix.
